@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background: linear-gradient(#ff0000, #1a546b);
+}
+
+img{
+    height: 300px;
+}
+h1{
+    font-size: 100px;
+    color: white;
+}
+.hola{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: grid;
+    gap: 20px;
+    grid-row: auto;
+}
